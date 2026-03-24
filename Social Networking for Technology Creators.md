@@ -174,7 +174,7 @@ return (
 
 <div>
 
-<h1>FutureStack</h1>
+<h1>Innovation network by Wiz-Dimensional</h1>
 
 <div>
 
