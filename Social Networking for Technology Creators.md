@@ -39,7 +39,7 @@ async fn create_post(post: web::Json<Post>) -> HttpResponse {
 }
 
 async fn get_feed() -> HttpResponse {
-    HttpResponse::Ok().body("FutureStack feed")
+    HttpResponse::Ok().body("Innovation network by Wiz-Dimensional feed")
 }
 
 #[actix_web::main]
